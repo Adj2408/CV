@@ -1,10 +1,21 @@
 h1 {
 	background:#A7C9E4;
+	font-family:Verdana;
+}
+
+p {
+	font-family: verdana;
 }
 
 h2 {
-	background: #A7C9E4
+	background: #A7C9E4;
+	font-family: verdana;
 }
-#PersonalStatment {
-	border: dashed;
+
+ul {
+	font-family: verdana;
+}
+
+li {
+	font-family: verdana;
 }
