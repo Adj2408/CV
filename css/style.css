@@ -1,0 +1,23 @@
+
+html, body {
+	padding: 0px;
+	margin: 0px;
+	background-image: url(img_backgounfd.jpg);
+	font-family: 'Taviraj', serif;e
+	}
+
+#container {
+	width:960px;
+	margin: 0 auto;
+	background-color: white;
+}
+
+#left_column {
+	float: left;
+	width: 50%;
+}
+
+h1 {
+	font-family: 'Playfair Display SC', serif;
+	font-size: 35px
+}
